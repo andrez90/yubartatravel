@@ -1,0 +1,17 @@
+keyword,intencion,volumen_estimado,dificultad_estimada,url_destino,prioridad
+agencia de viajes en Palmira Valle,compra,estimado: bajo-medio,baja,/,alta
+agencia de viajes Palmira planes turísticos,compra,estimado: bajo,baja,/,alta
+pasadías desde Palmira,compra,estimado: bajo,baja,/planes/pasadias,alta
+pasadías cerca de Cali,compra,estimado: medio,media,/planes/pasadias,media
+planes de pasadía Valle del Cauca,compra,estimado: bajo-medio,media,/planes/pasadias,media
+pasanoche desde Cali,compra,estimado: bajo,baja,/planes/pasanoches,alta
+planes de pasanoche Valle del Cauca,compra,estimado: bajo,baja,/planes/pasanoches,media
+excursiones desde Palmira,compra,estimado: bajo,baja,/planes/excursiones,alta
+excursiones y aventura Valle del Cauca,compra,estimado: bajo-medio,media,/planes/excursiones,media
+paquetes turísticos nacionales desde Cali,compra,estimado: medio,alta,/planes/nacionales,larga
+viajes a Santa Marta desde Cali,comparacion,estimado: medio,alta,/planes/nacionales,larga
+paquetes turísticos internacionales desde Colombia,comparacion,estimado: medio,alta,/planes/internacionales,larga
+viajar a Cuba desde Colombia,informativa,estimado: medio,alta,/planes/internacionales,larga
+tiquetes aéreos Palmira Cali agencia,compra,estimado: bajo,media,/#contacto,media
+seguro de viaje internacional Colombia,informativa,estimado: medio,alta,/#servicios,larga
+cómo reservar un plan turístico por WhatsApp,informativa,estimado: bajo,baja,/#preguntas,media

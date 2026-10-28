@@ -1,0 +1,11 @@
+node_modules
+.next
+.env
+.env.local
+*.tsbuildinfo
+next-env.d.ts
+
+# Carpetas de skills/agentes instaladas por herramientas
+/.*/
+!/.git/
+/data/skills/
